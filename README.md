@@ -1,5 +1,6 @@
 # Trabajo en Clases - Semana6 - Segundo Bimestre
-
+Integrantes: Jose David PIedra Narvaez
+	     Francisco Javier Estrada Cuenca
 
 ### Actividades
 
